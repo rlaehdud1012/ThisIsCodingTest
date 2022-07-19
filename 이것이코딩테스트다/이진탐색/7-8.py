@@ -24,3 +24,6 @@ while (start <= end):
             start = mid + 1
             
 print(result)
+
+
+print(ord('Z'))
